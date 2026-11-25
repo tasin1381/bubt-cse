@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std ;
 
-/* A company wants to develop an Employee Department Management System. Create a
+/*Practice Question 10 — Employee Department System (Encapsulation + Single Inheritance)
+A company wants to develop an Employee Department Management System. Create a
 base class named Person containing the following private data members:
 • string name
 • int age
